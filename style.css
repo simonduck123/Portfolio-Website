@@ -206,6 +206,59 @@ img{
     padding-left: 4%;
 }
 
+#portfolio4{
+    display: flex;
+    flex-direction:row;
+    background-color: white;
+    color: black;
+        margin-left: 5%;
+    margin-right: 5%;
+
+}
+
+#portfolio4 h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:60px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 22%;
+
+}
+
+#portfolio4 p{ 
+    font-family: 'Raleway', sans-serif;
+    font-size: 25px;
+    padding-top: 10px;
+    padding-right: 30%;
+    padding-left: 4%;
+}
+
+#portfolio5{
+    display: flex;
+    flex-direction:row;
+    background-color: white;
+    color: black;
+        margin-left: 5%;
+    margin-right: 5%;
+}
+
+#portfolio5 h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:60px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 22%;
+
+}
+
+#portfolio5 p{ 
+    font-family: 'Raleway', sans-serif;
+    font-size: 25px;
+    padding-top: 10px;
+    padding-right: 30%;
+    padding-left: 4%;
+}
+
 
 /* About Section */
 
