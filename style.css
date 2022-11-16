@@ -206,6 +206,72 @@ img{
     padding-left: 4%;
 }
 
+#portfolio6{
+    display: flex;
+    flex-direction:row;
+    background-color: white;
+    color: black;
+        margin-left: 5%;
+    margin-right: 5%;
+}
+
+#portfolio6 h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:60px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+
+}
+
+#portfolio6 p{ 
+    font-family: 'Raleway', sans-serif;
+    font-size: 25px;
+    padding-top: 10px;
+    padding-right: 30%;
+    padding-left: 4%;
+}
+
+#portfolio6 img{
+    width: 640px;
+    height: 360px;
+    padding: 10px;
+    margin: 10px;
+}
+
+#portfolio7 img{
+    width: 640px;
+    height: 360px;
+    padding: 10px;
+    margin: 10px;
+}
+
+#portfolio7{
+    display: flex;
+    flex-direction:row;
+    background-color: white;
+    color: black;
+        margin-left: 5%;
+    margin-right: 5%;
+}
+
+#portfolio7 h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:60px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+
+}
+
+#portfolio7 p{ 
+    font-family: 'Raleway', sans-serif;
+    font-size: 25px;
+    padding-top: 10px;
+    padding-right: 30%;
+    padding-left: 4%;
+}
+
 #portfolio4{
     display: flex;
     flex-direction:row;
