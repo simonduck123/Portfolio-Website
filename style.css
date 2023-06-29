@@ -98,7 +98,7 @@ html{
     font-size:60px;
     padding-top: 20px;
     padding-bottom: 20px;
-    padding-left: 22%;
+    padding-left: 4%;
 
 }
 
@@ -106,7 +106,7 @@ html{
     font-family: 'Raleway', sans-serif;
     font-size: 25px;
     padding-top: 10px;
-    padding-right: 30%;
+    padding-right: 5%;
     padding-left: 4%;
 }
 img{
@@ -150,7 +150,7 @@ img{
     font-family: 'Raleway', sans-serif;
     font-size: 25px;
     padding-top: 10px;
-    padding-right: 30%;
+    padding-right: 5%;
     padding-left: 10%;
 }
 
@@ -159,76 +159,49 @@ img{
     flex-direction:row;
     background-color: white;
     color: black;
-        margin-left: 5%;
+      margin-left: 5%;
     margin-right: 5%;
 }
 
-#portfolio2 h1{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size:60px;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    padding-left: 22%;
-
-}
+    #portfolio2 h1 {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 60px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: 4%;
+    }
 
 #portfolio2 p{ 
     font-family: 'Raleway', sans-serif;
     font-size: 25px;
     padding-top: 10px;
-    padding-right: 30%;
-    padding-left: 10%;
-}
-
-#portfolio3{
-    display: flex;
-    flex-direction:row;
-    background-color: white;
-    color: black;
-        margin-left: 5%;
-    margin-right: 5%;
-}
-
-#portfolio3 h1{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size:60px;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    padding-left: 23%;
-
-}
-
-#portfolio3 p{ 
-    font-family: 'Raleway', sans-serif;
-    font-size: 25px;
-    padding-top: 10px;
-    padding-right: 30%;
+    padding-right: 5%;
     padding-left: 4%;
 }
+
 
 #portfolio6{
     display: flex;
     flex-direction:row;
     background-color: white;
     color: black;
-        margin-left: 5%;
+    margin-left: 5%;
     margin-right: 5%;
 }
 
-#portfolio6 h1{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size:60px;
-    padding-top: 20px;
-    padding-bottom: 20px;
-
-
-}
+    #portfolio6 h1 {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 60px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: 4%;
+    }
 
 #portfolio6 p{ 
     font-family: 'Raleway', sans-serif;
     font-size: 25px;
     padding-top: 10px;
-    padding-right: 30%;
+    padding-right: 5%;
     padding-left: 4%;
 }
 
@@ -255,14 +228,13 @@ img{
     margin-right: 5%;
 }
 
-#portfolio7 h1{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size:60px;
-    padding-top: 20px;
-    padding-bottom: 20px;
-
-
-}
+    #portfolio7 h1 {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 60px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: 4%;
+    }
 
 #portfolio7 p{ 
     font-family: 'Raleway', sans-serif;
@@ -272,58 +244,6 @@ img{
     padding-left: 4%;
 }
 
-#portfolio4{
-    display: flex;
-    flex-direction:row;
-    background-color: white;
-    color: black;
-        margin-left: 5%;
-    margin-right: 5%;
-
-}
-
-#portfolio4 h1{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size:60px;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    padding-left: 22%;
-
-}
-
-#portfolio4 p{ 
-    font-family: 'Raleway', sans-serif;
-    font-size: 25px;
-    padding-top: 10px;
-    padding-right: 30%;
-    padding-left: 4%;
-}
-
-#portfolio5{
-    display: flex;
-    flex-direction:row;
-    background-color: white;
-    color: black;
-        margin-left: 5%;
-    margin-right: 5%;
-}
-
-#portfolio5 h1{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size:60px;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    padding-left: 22%;
-
-}
-
-#portfolio5 p{ 
-    font-family: 'Raleway', sans-serif;
-    font-size: 25px;
-    padding-top: 10px;
-    padding-right: 30%;
-    padding-left: 4%;
-}
 
 
 /* About Section */
@@ -340,15 +260,14 @@ img{
     color: white;
     
 }
-#about{
+#about {
     display: flex;
     flex-direction: column;
     text-align: justify;
     height: 100%;
-            margin-left: 5%;
+    margin-left: 5%;
     margin-right: 5%;
-    
-    
+    font-family: 'Raleway', sans-serif;
 }
 #about p{
 
